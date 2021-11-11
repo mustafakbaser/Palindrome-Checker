@@ -1,2 +1,2 @@
 # Palindrome-Checker
-A Palindrome check application that developed in Java.
+This is a simple console application that checks palindrome case, developed in Java.
