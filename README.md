@@ -1,2 +1,2 @@
 # Palindrome-Checker
-A Palindrome control application developed in Java language.
+A Palindrome check application that developed in Java.
